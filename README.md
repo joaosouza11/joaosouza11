@@ -1,0 +1,4 @@
+- 😁 Hi, my name is João Souza and I'm from Brazil
+- 🌱 I’m currently learning HTML5, CSS3 and something about Python
+- 👀 It would be lovely to collaborate on a real project with others people to learn and practice
+- 📫 You can contact me on joaovitorpsouza11@gmail.com and https://www.linkedin.com/in/joão-souza-57a00a20a/
