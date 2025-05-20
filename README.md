@@ -1,4 +1,4 @@
-- 😁 Hi, I'm a student from Brazil
-- 🌱 I’m currently focused on learning Python and AI.
-- 🐆 It would be lovely to collaborate on a real project mainly on Python/AI, but you can contact me to work on projects based on HTML, CSS, JS, C, Java, and I'm open to learn another technology.
+- 😁 Hi, I'm a student from Brazil, currently pursuing degree in statistics at Unicamp
+- 🌱 I’m currently focused on learning AI, Python and Data Science applications.
+- 🐆 It would be lovely to collaborate on a real project mainly on Python/AI, but you can contact me to work on projects based on React, HTML & CSS, and any project with a positive impact.
 - 📫 You can contact me on joaovitorpsouza11@gmail.com and https://www.linkedin.com/in/joão-souza-57a00a20a/
