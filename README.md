@@ -1,4 +1,4 @@
-- 😁 Hi, I'm a student from Brazil, currently pursuing degree in statistics at Unicamp
-- 🌱 I’m currently focused on learning Machine Learning Regressors, Python and Data Science applications.
-- 🐆 It would be lovely to collaborate in project to practice my ML and Phyton skills, but you can contact me to work on projects based on React, HTML & CSS, or any project with a positive impact.
+- 😁 Hi, I'm a student from Brazil, currently pursuing degree in Statistics at Unicamp.
+- 🌱 I’m currently focused on learning Machine Learning, Python and Data Science applications.
+- 🐆 It would be lovely to collaborate in project to practice my ML and Phyton skills, but you can contact me to work on projects in other areas!
 - 📫 You can contact me on joaovitorpsouza11@gmail.com and https://www.linkedin.com/in/joão-souza-57a00a20a/
